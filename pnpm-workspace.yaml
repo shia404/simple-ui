@@ -22,7 +22,7 @@ catalog:
   '@codemirror/language': ^6.11.3
   '@codemirror/legacy-modes': ^6.5.1
   '@commitlint/cli': ^19.8.1
-  '@commitlint/config-conventional': ^19.8.1
+  '@commitlint/config-conventional': ^20.0.0
   '@ctrl/tinycolor': ^4.2.0
   '@element-plus/icons-vue': ^2.3.2
   '@eslint/js': ^9.36.0
