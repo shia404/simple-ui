@@ -124,7 +124,7 @@ catalog:
   json-bigint: ^1.0.0
   jsonc-eslint-parser: ^2.4.1
   jsonwebtoken: ^9.0.2
-  lint-staged: ^15.5.2
+  lint-staged: ^16.2.3
   lodash.clonedeep: ^4.5.0
   lodash.get: ^4.4.2
   lodash.isequal: ^4.5.0
